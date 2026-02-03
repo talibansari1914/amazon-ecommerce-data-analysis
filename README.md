@@ -125,7 +125,7 @@ amazon-ecommerce-data-analysis/<br>
 
 - Kaggle for the dataset<br>
 - Python open-source community<br>
-- I sincerely thank **Jayant Kumar M** for providing the analytical questions...
+- I sincerely thanks to my instructor **Jayant Kumar M Sir**  for providing the analytical questions...
 
 
 ## Author
