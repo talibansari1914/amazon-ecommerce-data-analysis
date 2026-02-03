@@ -111,20 +111,20 @@ amazon-ecommerce-data-analysis/<br>
 3.Open Jupyter Notebook<br>
 `jupyter notebook`
 
-4.Run Amazon_Data_Analysisipynb<br>
+4.Run Amazon_Data_Analysis.ipynb<br>
 
 ## 🎯 Learning Outcomes
 
--- Hands-on practice with Pandas & NumPy<br>
--- Real-world EDA workflow<br>
--- Data-driven business thinking<br>
--- Visualization for insights<br>
--- Statistical analysis & correlations<br>
+- Hands-on practice with Pandas & NumPy<br>
+- Real-world EDA workflow<br>
+- Data-driven business thinking<br>
+- Visualization for insights<br>
+- Statistical analysis & correlations<br>
 
 ## 🙌 Acknowledgements
 
--- Kaggle for the dataset<br>
--- Python open-source community<br>
+- Kaggle for the dataset<br>
+- Python open-source community<br>
 
 ## Author
 Abbu Talib Ansari<br>
